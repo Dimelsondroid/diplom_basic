@@ -1,0 +1,28 @@
+09-03-2022, 16:42:53, Info: User found, photos requested
+09-03-2022, 16:42:54, Info: Folder created <Response [201]>
+09-03-2022, 16:42:55, Info: Upload successful <Response [202]>, 1/5 completed
+09-03-2022, 16:42:55, Info: Upload successful <Response [202]>, 2/5 completed
+09-03-2022, 16:42:56, Info: Upload successful <Response [202]>, 3/5 completed
+09-03-2022, 16:42:56, Info: Upload successful <Response [202]>, 4/5 completed
+09-03-2022, 16:42:56, Info: Upload successful <Response [202]>, 5/5 completed
+09-03-2022, 16:43:08, Info: User found, photos requested
+09-03-2022, 16:43:09, Info: Folder already exist <Response [409]>
+09-03-2022, 16:43:10, Info: Upload successful <Response [202]>, 1/5 completed
+09-03-2022, 16:43:11, Info: Upload successful <Response [202]>, 2/5 completed
+09-03-2022, 16:43:11, Info: Upload successful <Response [202]>, 3/5 completed
+09-03-2022, 16:43:12, Info: Upload successful <Response [202]>, 4/5 completed
+09-03-2022, 16:43:13, Info: Upload successful <Response [202]>, 5/5 completed
+09-03-2022, 16:46:55, Info: User found, photos requested
+09-03-2022, 16:46:56, Info: Folder already exist <Response [409]>
+09-03-2022, 16:46:57, Info: Upload successful <Response [202]>, 1/5 completed
+09-03-2022, 16:46:58, Info: Upload successful <Response [202]>, 2/5 completed
+09-03-2022, 16:46:58, Info: Upload successful <Response [202]>, 3/5 completed
+09-03-2022, 16:47:00, Info: Upload successful <Response [202]>, 4/5 completed
+09-03-2022, 16:47:00, Info: Upload successful <Response [202]>, 5/5 completed
+09-03-2022, 16:57:44, Info: User found, photos requested
+09-03-2022, 16:57:45, Info: Folder created <Response [201]>
+09-03-2022, 16:57:46, Info: Upload successful <Response [202]>, 1/5 completed
+09-03-2022, 16:57:47, Info: Upload successful <Response [202]>, 2/5 completed
+09-03-2022, 16:57:48, Info: Upload successful <Response [202]>, 3/5 completed
+09-03-2022, 16:57:48, Info: Upload successful <Response [202]>, 4/5 completed
+09-03-2022, 16:57:48, Info: Upload successful <Response [202]>, 5/5 completed
